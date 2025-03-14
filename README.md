@@ -1,0 +1,3 @@
+# Customer Support Chatbot
+
+This project aims to develop an advanced customer support chatbot leveraging sentiment analysis and question-answering capabilities. Utilizing the DistilBERT model for sentiment classification and the Hugging Face Transformers library for question answering, the chatbot is designed to provide users with accurate and context-aware responses to their inquiries. The system is integrated with a knowledge base, consisting of frequently asked questions (FAQs) stored in a CSV file. The chatbot can analyze user sentiment, allowing it to tailor its responses based on user emotions, enhancing user experience. Overall, this project combines natural language processing techniques to create a responsive and intelligent support assistant
